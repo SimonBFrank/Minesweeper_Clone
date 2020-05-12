@@ -7,6 +7,8 @@
 *.rsuser
 *.suo
 *.user
+*.vcxproj
+*.vcxproj.filters
 *.userosscache
 *.sln.docstates
 
