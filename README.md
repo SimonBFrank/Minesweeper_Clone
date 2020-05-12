@@ -1,6 +1,6 @@
 # Minesweeper_Clone
 
-This is a C++ Minesweeper clone using SFML.  To run this program, you must first install SFML and then run main.cpp.  
+This is a C++ Minesweeper clone using SFML.  To use this program, you must first install SFML and then run main.cpp.  
 
 ## Functionality
 
